@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Lugrasimo&family=Poppins&family=Roboto:wght@500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.heading {
+  text-align: center;
+  margin: 12px;
+  padding: 3px;
+  color: blueviolet;
+}
+.btn {
+  margin: 3px;
+}
+body {
+  background-color: beige;
+}
